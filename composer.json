@@ -1,0 +1,10 @@
+{
+    "name": "imrodmartin/dhsb_checkpoint_3",
+    "description": "DrupalHelps Site Building course: a fresh site at the end of Module 3 (Media).",
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": "^11.5",
+        "imrodmartin/dhsb_setup": "^1.0"
+    }
+}
